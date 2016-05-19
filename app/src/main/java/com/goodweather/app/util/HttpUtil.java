@@ -7,6 +7,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
+ * 从服务器端获取数据
+ *
  * Created by wangkaiyan on 16/5/18.
  */
 public class HttpUtil {
